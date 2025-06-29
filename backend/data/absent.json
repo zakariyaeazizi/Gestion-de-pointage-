@@ -1,0 +1,12 @@
+[
+    {
+        "id": "e2a03e2e-25be-4780-bea4-ea9311676f9c",
+        "nom": "el arabi",
+        "email": "arabi@test.ts",
+        "telephone": "00000",
+        "image": "../../frontend/public\\el arabi_20250612_134441.jpg",
+        "poste": "8000",
+        "departement": "IT ",
+        "date": "2025-06-25"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "82dfb3a6-e5d3-4465-bcaa-b0d5a143cf57",
+        "nom": "simo",
+        "email": "simo@test.ts",
+        "telephone": "0000",
+        "poste": "900",
+        "departement": "it",
+        "image": "../../frontend/public\\simo_20250612_133642.jpg",
+        "date_creation": "2025-06-12T13:36:45.666797",
+        "date_modification": "2025-06-12T13:36:45.666797",
+        "active": true
+    },
+    {
+        "id": "e2a03e2e-25be-4780-bea4-ea9311676f9c",
+        "nom": "el arabi",
+        "email": "arabi@test.ts",
+        "telephone": "00000",
+        "poste": "8000",
+        "departement": "IT ",
+        "image": "../../frontend/public\\el arabi_20250612_134441.jpg",
+        "date_creation": "2025-06-12T13:44:43.252375",
+        "date_modification": "2025-06-12T13:47:00.321015",
+        "active": true
+    }
+]
